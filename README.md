@@ -36,7 +36,7 @@ MazeSolverProject/
 
 1. **Clone or download the repository**
    ```sh
-   git clone https://github.com/oktaykorkut/MazeSolverProject.git
+   git clone https://github.com/oktaykorkut/MazeSolver.git
    cd MazeSolverProject
    ```
 
